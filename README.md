@@ -29,7 +29,7 @@ The app focuses on improving learning, engagement, and daily life management for
 Below are the app screenshots (0 → 38) from the development and UI flow.  
 
 <p align="center">
-  <img src="./screenshots/brightsprings.png" alt="screenshot logo" width="200"/> 
+  <img src="./screenshots/brightsprings.png" alt="screenshot logo" width="500"/> 
   <img src="./screenshots/0.png" alt="screenshot 0" width="200"/>  
   <img src="./screenshots/1.png" alt="screenshot 1" width="200"/>  
   <img src="./screenshots/2.png" alt="screenshot 2" width="200"/>  
@@ -98,4 +98,5 @@ We welcome contributions! Please submit pull requests or open issues.
 ---
 
 ⭐ Don’t forget to **star the repo** if you find this project useful!
+
 
